@@ -1,5 +1,5 @@
 [[appendix]]
-= Appendix
+= Appendix GH*******
 
 This part of the reference documentation covers topics that apply to multiple modules
 within the core Spring Framework.
